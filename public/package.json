@@ -1,0 +1,21 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "main": "firebase-messaging-sw.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CreativeJeka/ChatByChernov.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CreativeJeka/ChatByChernov/issues"
+  },
+  "homepage": "https://github.com/CreativeJeka/ChatByChernov#readme",
+  "description": ""
+}
